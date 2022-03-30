@@ -1,5 +1,8 @@
+<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D16AQGO-iHB7cQ8SA/profile-displaybackgroundimage-shrink_200_800/0/1646514148380?e=1654128000&v=beta&t=EmG9xuvN8OGPVDJsvcHBAt40cn11VJU7CRqOBR5Ltig" alt="alexracciatti heading"/>
 <h1 align="center">Hi 👋, I'm Alex Racciatti</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexracciatti)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning **Redux, SASS**
 
